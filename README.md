@@ -37,7 +37,7 @@ git clone [https://github.com/ishwariyalshu2005/ipure-agritech-ecosystem.git](ht
 cd ipure-agritech-ecosystem
 
 ### 3. Set Up a Virtual Environment
-Bash
+
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -47,12 +47,12 @@ python3 -m venv venv
 source venv/bin/activate
 
 ### 4. Install Dependencies
-Bash
+
 pip install -r requirements.txt
 
 
 ### 5. Run the Application
-Bash
+
 python app.py
 Open http://127.0.0.1:9999 in your browser to view the application.
 
