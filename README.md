@@ -30,13 +30,13 @@ Follow these steps to set up the development environment on your local machine:
 ### **1. Prerequisites**
 Ensure you have **Python 3.8+** and **git** installed.
 
-### **2. Clone the Repository**
+### 2. Clone the Repository
 
+```bash
 git clone [https://github.com/ishwariyalshu2005/ipure-agritech-ecosystem.git](https://github.com/ishwariyalshu2005/ipure-agritech-ecosystem.git)
 cd ipure-agritech-ecosystem
-
-
-###3. Set Up a Virtual Environment
+3. Set Up a Virtual Environment
+Bash
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -44,12 +44,17 @@ venv\Scripts\activate
 # macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
-
-
-### 4. Install Dependencies
+4. Install Dependencies
+Bash
 pip install -r requirements.txt
-
-
-### 5. Run the Application
+5. Run the Application
+Bash
 python app.py
+Open http://127.0.0.1:9999 in your browser to view the application.
 
+🗺️ Roadmap & Future Enhancements
+[ ] Implement multi-language localization (bilingual support optimization).
+
+[ ] Add SMS-based query system for farmers without active internet access.
+
+[ ] Optimize the VQA model parameters to reduce inference latency.
