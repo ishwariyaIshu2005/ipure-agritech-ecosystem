@@ -54,6 +54,8 @@ pip install -r requirements.txt
 ### 5. Run the Application
 
 python app.py
+
+
 Open http://127.0.0.1:9999 in your browser to view the application.
 
 ### 🗺️ Roadmap & Future Enhancements
