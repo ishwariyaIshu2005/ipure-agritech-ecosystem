@@ -1,7 +1,7 @@
 # ipure-agritech-ecosystem
 An advanced bilingual Agri-Tech ecosystem featuring live global weather tracking, a commodity market index, automated video learning tracks, integrated farmer discussion networks, and an AI-driven crop diagnostic VQA core.
 ## 🚀 Key Features
-
+- ![iPure Agri-Tech Dashboard Interface](assets/dashboard.png)
 - **AI-Driven Crop Diagnostics:** Implements a Vision-Question-Answering (VQA) core engine to analyze and diagnose crop diseases from images.
 - **Real-Time Weather Tracking:** Live global weather data integrations providing localized, precision farming insights.
 - **Commodity Market Index:** Dynamic tracking of agricultural market trends and commodity pricing.
